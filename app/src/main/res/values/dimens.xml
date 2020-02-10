@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- start text sizes   -->
+
+    <dimen name="tsize">25sp</dimen>
+    <dimen name="tsz">20sp</dimen>
+    <dimen name="textSize">17sp</dimen>
+
+<!-- End text Sizes   -->
+
+<!--   start padding and margins  -->
+
+    <dimen name="padding">25dp</dimen>
+    <dimen name="margin_end">10dp</dimen>
+    <dimen name="margin">60dp</dimen>
+    <dimen name="btop">50dp</dimen>
+    <dimen name="epadding">15dp</dimen>
+    <dimen name="agevalue">69dp</dimen>
+    <dimen name="gendervalue">43dp</dimen>
+
+<!--    end padding and margins  -->
+
+</resources>

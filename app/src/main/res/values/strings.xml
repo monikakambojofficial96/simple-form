@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Information_form</string>
+    <string name="first_name">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="fname">First Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">SUBMIT</string>
+    <string name="informational_form">INFORMATIONAL FORM</string>
+    <string name="gender">Gender</string>
+    <string name="age">AGE</string>
+</resources>
